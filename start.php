@@ -1,7 +1,7 @@
-<!DOCTYPE htrnl>
-<htrnl lang="ru">
+<!DOCTYPE html>
+<html lang="ru">
 <head>
-<titlе>Простей1Ш1Й PHP-cкpиnт</title>
+<titlе>Простейший PHP-cкpиnт</title>
 <meta charset='utf-8'>
 </head>
 <body>
@@ -9,4 +9,4 @@
 echo "Hello, world!";
 ?>
 </body>
-</htrnl> 
+</html> 
